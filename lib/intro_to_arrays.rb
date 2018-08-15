@@ -13,4 +13,10 @@ end
 def third_element(array)
   array[3]
 end
+
+def last_element(array)
+  array[-1]
+end
+
+
   
